@@ -1,3 +1,6 @@
+# Index
+https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions
+
 # Universal AI Diploma Sessions
 
 # Cohort1_31 Students
